@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+body {
+background-image:url(/images/arkaplan1.webp);
+
+}
+
+#baslikaltip {
+    font-weight: 800;
+    color: darkgreen;
+    font-size: 32px;
+    font-family: Cinzel;
+}
+
+a {
+    font-size: 30px;
+}
